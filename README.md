@@ -1,4 +1,4 @@
-# Match Game Final Project
+# Magic8Ball
 ## Contents
 - Introduction
 - Function Overview
